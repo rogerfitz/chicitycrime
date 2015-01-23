@@ -1,0 +1,72 @@
+Daily Summary
+<pre>
+Month/Year: 01/2015
+Station Location: CHICAGO O'HARE INTERNATIONAL AIRPORT (94846)
+Lat: 41.995
+Lon: -87.933
+Elev: 662 ft. above sea level
+WBAN,YearMonthDay,Tmax,TmaxFlag,Tmin,TminFlag,Tavg,TavgFlag,Depart,DepartFlag,DewPoint,DewPointFlag,WetBulb,WetBulbFlag,Heat,HeatFlag,Cool,CoolFlag,Sunrise,SunriseFlag,Sunset,SunsetFlag,CodeSum,CodeSumFlag,Depth,DepthFlag,Water1,Water1Flag,SnowFall,SnowFallFlag,PrecipTotal,PrecipTotalFlag,StnPressure,StnPressureFlag,SeaLevel,SeaLevelFlag,ResultSpeed,ResultSpeedFlag,ResultDir,ResultDirFlag,AvgSpeed,AvgSpeedFlag,Max5Speed,Max5SpeedFlag,Max5Dir,Max5DirFlag,Max2Speed,Max2SpeedFlag,Max2Dir,Max2DirFlag
+94846,20150101,32, ,14, ,23, , 0, ,10, ,19, ,42, , 0, ,0720, ,1631, , , ,0, ,M, ,0.0, ,0.00, ,29.31, ,30.07, ,15.0, ,24, ,14.5, ,30, ,250, ,24, ,240, 
+94846,20150102,34, ,15, ,25, , 2, ,17, ,23, ,40, , 0, ,0720, ,1632, , , ,0, ,M, ,0.0, ,0.00, ,29.49, ,30.25, , 2.5, ,18, ,4.6, ,13, ,150, ,12, ,150, 
+94846,20150103,34, ,29, ,32, , 9, ,30, ,32, ,33, , 0, ,0720, ,1633, ,RA DZ FZRA SN PL BR, ,0, ,M, ,0.4, ,0.57, ,29.12, ,29.91, , 2.0, ,05, ,5.5, ,14, ,140, ,13, ,140, 
+94846,20150104,33, ,2, ,18, ,-4, ,15, ,20, ,47, , 0, ,0720, ,1634, ,DZ SN FZFG BR BLSN, ,1, ,M, ,2.2, ,0.13, ,29.39, ,30.09, ,15.4, ,31, ,15.9, ,31, ,320, ,26, ,320, 
+94846,20150105,6, ,-3, ,2, ,-20, ,-4, ,2, ,63, , 0, ,0720, ,1635, ,SN BR, ,2, ,M, ,1.8, ,0.15, ,29.74, ,30.53, , 9.1, ,26, ,10.2, ,26, ,310, ,22, ,310, 
+94846,20150106,10, ,-5, ,3, ,-19, ,-1, ,4, ,62, , 0, ,0720, ,1636, ,SN BR, ,4, ,M, ,0.2, ,0.01, ,29.57, ,30.35, ,12.7, ,29, ,13.9, ,30, ,280, ,24, ,270, 
+94846,20150107,6, ,-6, ,0, ,-22, ,-10, ,0, ,65, , 0, ,0719, ,1637, , , ,3, ,M, ,0.0, ,0.00, ,29.90, ,30.67, ,16.4, ,31, ,17.4, ,33, ,320, ,28, ,330, 
+94846,20150108,18, ,-8, ,5, ,-17, ,-2, ,3, ,60, , 0, ,0719, ,1638, ,SN BLSN, ,3, ,M, ,3.0, ,0.06, ,29.34, ,30.17, ,15.0, ,23, ,17.6, ,39, ,300, ,28, ,300, 
+94846,20150109,11, ,0, ,6, ,-16, ,-5, ,2, ,59, , 0, ,0719, ,1639, ,HZ BLSN, ,5, ,M, ,  T, ,  T, ,29.56, ,30.32, ,16.1, ,28, ,16.5, ,38, ,330, ,30, ,330, 
+94846,20150110,24, ,-2, ,11, ,-11, ,2, ,9, ,54, , 0, ,0719, ,1640, , , ,4, ,M, ,0.0, ,0.00, ,29.58, ,30.37, ,11.0, ,21, ,11.7, ,27, ,190, ,22, ,180, 
+94846,20150111,32, ,22, ,27, , 5, ,18, ,24, ,38, , 0, ,0719, ,1641, ,SN BR, ,4, ,M, ,2.6, ,0.19, ,29.50, ,30.27, , 7.9, ,21, ,8.3, ,21, ,180, ,18, ,180, 
+94846,20150112,28, ,15, ,22, , 0, ,10, ,17, ,43, , 0, ,0718, ,1642, ,SN BR, ,6, ,M, ,0.4,s,  T, ,29.78, ,30.50, ,12.4, ,35, ,12.7, ,25, ,010, ,21, ,010, 
+94846,20150113,19, ,3, ,11, ,-10, ,9, ,14, ,54, , 0, ,0718, ,1643, ,SN, ,6, ,M, ,0.2,s,  T, ,29.85, ,30.63, , 5.9, ,07, ,7.5, ,23, ,050, ,20, ,050, 
+94846,20150114,19, ,1, ,10, ,-11, ,7, ,12, ,55, , 0, ,0718, ,1644, ,SN BR, ,6, ,M, ,  T, ,  T, ,29.54, ,30.35, , 6.0, ,23, ,6.4, ,18, ,220, ,14, ,220, 
+94846,20150115,34, ,17, ,26, , 5, ,18, ,22, ,39, , 0, ,0717, ,1645, , , ,5, ,M, ,0.0, ,0.00, ,29.28, ,30.07, , 9.7, ,24, ,10.1, ,27, ,230, ,21, ,240, 
+94846,20150116,34, ,23, ,29, , 8, ,22, ,26, ,36, , 0, ,0717, ,1646, , , ,4, ,M, ,0.0, ,0.00, ,29.36, ,30.13, , 3.4, ,12, ,8.2, ,18, ,140, ,15, ,140, 
+94846,20150117,42, ,26, ,34, ,13, ,29, ,34, ,31, , 0, ,0716, ,1648, , , ,4, ,M, ,0.0, ,0.00, ,28.95, ,29.71, ,13.7, ,22, ,15.4, ,37, ,220, ,28, ,210, 
+94846,20150118,40, ,27, ,34, ,13, ,28, ,32, ,31, , 0, ,0716, ,1649, ,SN, ,0, ,M, ,  T, ,  T, ,29.13, ,29.85, , 9.9, ,27, ,10.4, ,24, ,240, ,20, ,300, 
+94846,20150119,41, ,25, ,33, ,11, ,28, ,31, ,32, , 0, ,0715, ,1650, ,SN, ,0, ,M, ,  T, ,  T, ,29.21, ,29.96, , 2.6, ,10, ,5.4, ,13, ,100, ,12, ,100, 
+94846,20150120,36, ,29, ,33, ,11, ,30, ,31, ,32, , 0, ,0714, ,1651, ,DZ FZDZ BR, ,0, ,M, ,0.0, ,  T, ,29.20, ,29.93, , 5.6, ,03, ,7.4, ,23, ,050, ,17, ,040, 
+94846,20150121,M, ,M, ,M, ,M, ,26, ,29, ,M, ,M, ,0714, ,1652, ,SN, ,M, ,M, ,M, ,M, ,M, ,30.09, , 7.1, ,01, ,M, ,M, ,M, ,M, ,M, 
+94846,20150122,M, ,M, ,M, ,M, ,M, ,M, ,M, ,M, ,0713, ,1654, , , ,M, ,M, ,M, ,M, ,M, ,M, ,M, ,M, ,M, ,M, ,M, ,M, ,M, 
+94846,20150123,M, ,M, ,M, ,M, ,M, ,M, ,M, ,M, ,0712, ,1655, , , ,M, ,M, ,M, ,M, ,M, ,M, ,M, ,M, ,M, ,M, ,M, ,M, ,M, 
+94846,20150124,M, ,M, ,M, ,M, ,M, ,M, ,M, ,M, ,0712, ,1656, , , ,M, ,M, ,M, ,M, ,M, ,M, ,M, ,M, ,M, ,M, ,M, ,M, ,M, 
+94846,20150125,M, ,M, ,M, ,M, ,M, ,M, ,M, ,M, ,0711, ,1657, , , ,M, ,M, ,M, ,M, ,M, ,M, ,M, ,M, ,M, ,M, ,M, ,M, ,M, 
+94846,20150126,M, ,M, ,M, ,M, ,M, ,M, ,M, ,M, ,0710, ,1659, , , ,M, ,M, ,M, ,M, ,M, ,M, ,M, ,M, ,M, ,M, ,M, ,M, ,M, 
+94846,20150127,M, ,M, ,M, ,M, ,M, ,M, ,M, ,M, ,0709, ,1660, , , ,M, ,M, ,M, ,M, ,M, ,M, ,M, ,M, ,M, ,M, ,M, ,M, ,M, 
+94846,20150128,M, ,M, ,M, ,M, ,M, ,M, ,M, ,M, ,0708, ,1701, , , ,M, ,M, ,M, ,M, ,M, ,M, ,M, ,M, ,M, ,M, ,M, ,M, ,M, 
+94846,20150129,M, ,M, ,M, ,M, ,M, ,M, ,M, ,M, ,0707, ,1702, , , ,M, ,M, ,M, ,M, ,M, ,M, ,M, ,M, ,M, ,M, ,M, ,M, ,M, 
+94846,20150130,M, ,M, ,M, ,M, ,M, ,M, ,M, ,M, ,0706, ,1704, , , ,M, ,M, ,M, ,M, ,M, ,M, ,M, ,M, ,M, ,M, ,M, ,M, ,M, 
+94846,20150131,M, ,M, ,M, ,M, ,M, ,M, ,M, ,M, ,0705, ,1705, , , ,M, ,M, ,M, ,M, ,M, ,M, ,M, ,M, ,M, ,M, ,M, ,M, ,M, 
+94846,201501,M, ,M, ,M, ,M, ,M, ,M, ,M, ,M, ,M, ,M, ,M, ,M, ,M, ,M, ,M, ,M, ,M, ,M, ,M, ,M, ,M, ,M, ,M, ,M, ,M, ,M, ,M, ,M, ,M, ,M, ,M, ,M, ,M, ,M, ,M, ,M, ,M, ,M, ,M, ,M, ,M, ,M, ,M, ,M, ,0, ,0, ,6, 
+HDD monthly total:,M, 
+HDD monthly departure:,M
+HDD Season to date total:,M, 
+HDD Season to date departure:,M, 
+CDD monthly total:,M, 
+CDD monthly departure:,M, 
+CDD Season to date total:,M, 
+CDD Season to date departure:,M, 
+greatest 24-hr precipitation:,M
+greatest 24-hr precipitation date:,M
+greatest 24-hr snowfall:,M
+greatest 24-hr snowfall date:,M
+greatest snow depth:,M
+greatest snow depth date:,M
+sea level pressure max:,M
+sea level pressure max date:,M
+sea level pressure max time:,M
+sea level pressure min:,M
+sea level pressure min date:,M
+sea level pressure min time:,M
+number of days with max temp >= 90:,M
+number of days with max temp <= 32:,M
+number of days with thunderstorms:,0, 
+number of days with min temp <= 32:,M
+number of days with min temp <= 0:,M
+number of days with heavy fog:,0, 
+number of days with precipitation >= .01 inch:,M
+number of days with precipition >= .10 inch:,M
+number of days snowfall >= 1.0 inch:,6, 
+
+
+</pre>
