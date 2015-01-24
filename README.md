@@ -1,5 +1,5 @@
 # Chicago Crime
-An investigation of crime in Chicago. Investigating effect of warm days on homicides. Eventually attempt at predicting homicides. On success will create a "death forecast" and twitter to urge people not to kill eachother.
+An investigation of crime in Chicago. Investigating effect of warm days on homicides. Eventually attempt at predicting homicides. On success will create a "death forecast" and twitter to urge people not to shoot each other/kill warm days
 ____
 Previous investigation, http://nbviewer.ipython.org/github/brianckeegan/WeatherCrime/blob/master/Analysis.ipynb, focused on large scale techniques. In this I attempt to identify days ripe for murder taking into account day to day temp change and weather prior (days likely spent more inside vs warm weather/nice -> outside). Eventually I hope to have a model that can predict days ripe for murder by tweaking my model. Goal is to produce something effective and useful no matter it's scope.
 _____
